@@ -36,3 +36,9 @@ Tables
 |1|srishti|
 |2|nisha|
 |3|srish|
+
+---
+
+Hyperlinks
+
+for more info [click here](https://www.amazon.in/)
