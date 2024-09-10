@@ -28,3 +28,12 @@ for i in range(5):
     print(i)
 ```
 
+---
+
+Tables
+|ID|Name|
+|---|---|
+
+|1|srishti|
+|2|nisha|
+|3|srish|
