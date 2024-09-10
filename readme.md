@@ -16,4 +16,15 @@ Numerical points:
 bullet points
 * p 1
 * p 2
+  * p 2.1
+
+---
+code snippets
+```
+import datetime
+print('hello world')
+print(datetime.datetime.now())
+for i in range(5):
+    print(i)
+```
 
