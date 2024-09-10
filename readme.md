@@ -4,5 +4,16 @@
 ---
 New section
 
-New paagraph<br>
+New paragraph<br>
 another para
+
+Numerical points:
+1. point 1
+2. point 2
+3. point 3
+
+
+bullet points
+* p 1
+* p 2
+
